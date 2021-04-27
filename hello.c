@@ -6,6 +6,7 @@ typedef struct{
 int main()
 {
     int i;
+    printf("sbsbsbsbbsb");
     return 0;
 
 }
