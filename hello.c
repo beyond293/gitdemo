@@ -7,6 +7,7 @@ int main()
 {
     int i;
     printf("这是hot-fix分支");
+    printf("hot-fix test");
     return 0;
 
 }
