@@ -7,6 +7,9 @@ int main()
 {
     int i;
     printf("这是hot-fix分支");
+
+
+    printf("master");
     return 0;
 
 }
