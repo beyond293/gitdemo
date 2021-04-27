@@ -6,7 +6,7 @@ typedef struct{
 int main()
 {
     int i;
-    printf("sbsbsbsbbsb");
+    printf("这是hot-fix分支");
     return 0;
 
 }
